@@ -1,0 +1,53 @@
+YouTube Upload Tool — app home page
+
+# YouTube Upload Tool
+
+Developer: Maxim Peshkov — peshkov1.max@gmail.com
+Google Cloud project: extreme-lodge-504919-f7
+
+YouTube Upload Tool is a small, free, single-user utility. It automates one job for its
+owner: publishing the long-form relaxing-piano music videos he produces on his own computer to his own
+YouTube channel, and managing their titles, descriptions, tags and privacy status through the official
+YouTube Data API v3: https://developers.google.com/youtube/v3.
+
+The tool has no users other than its owner, no registration, no accounts, no backend, no server, no
+advertising and no analytics. It runs locally and talks only to Google's own API endpoints over HTTPS.
+It requests the three YouTube scopes it needs (youtube.upload, youtube,
+youtube.readonly) and nothing else; it never reads other people's channels, viewer data,
+comments, or any Google data outside the owner's own uploads.
+
+ 
+ 
+## Privacy Policy
+
+ What the tool stores, why it needs each OAuth scope, retention and deletion.
+
+ xcoderpmd.github.io/privacy-policies/privacy-policy.html
+
+ 
+
+ 
+ 
+## Terms of Service
+
+ Permitted and prohibited use, rights in uploaded content, AI-content disclosure, liability.
+
+ xcoderpmd.github.io/privacy-policies/terms.html
+
+ 
+
+## Where the content goes
+
+Every video published by the tool goes to one channel, owned by the developer:
+youtube.com/@mikimaximax (channel ID
+UCV74_Tj8LgAMotjXsLyG-mw). The music and visuals are produced by the developer with local
+AI tooling, and uploads are marked as containing AI-generated media.
+
+## Contact
+
+Questions about the application, this page, the privacy policy, the terms, or data removal:
+peshkov1.max@gmail.com. Requests are answered within 7 days.
+
+Legal and informational pages for the Google Cloud project extreme-lodge-504919-f7 and
+the OAuth client 201426262762-mv5t1d0t2cqjvhpgrmv7egtls6gaciq5.apps.googleusercontent.com.
+This site hosts only these pages; it is not a public web service and collects no data.

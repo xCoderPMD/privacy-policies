@@ -4,7 +4,7 @@ Google Cloud project `extreme-lodge-504919-f7` · OAuth client `201426262762-mv5
 
 | Document | Public URL |
 |---|---|
-| App home page | https://xcoderpmd.github.io/privacy-policies/home.html |
+| App home page | https://xcoderpmd.github.io/privacy-policies/home.html (works for a personal app; **rejected by branding verification**: github.io is not an owner-verifiable domain) |
 | Privacy Policy | https://xcoderpmd.github.io/privacy-policies/ (mirror: /privacy-policy.html) |
 | Terms of Service | https://xcoderpmd.github.io/privacy-policies/terms.html |
 

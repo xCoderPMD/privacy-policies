@@ -1,0 +1,105 @@
+Terms of Service — YouTube Upload Tool
+
+# Terms of Service
+
+Applies to: YouTube Upload Tool
+Google Cloud project: extreme-lodge-504919-f7
+OAuth client ID: 201426262762-mv5t1d0t2cqjvhpgrmv7egtls6gaciq5.apps.googleusercontent.com
+Operator: Maxim Peshkov — peshkov1.max@gmail.com
+Last updated: 24 November 2026
+
+## 1. The service and who may use it
+
+YouTube Upload Tool is a free, single-user utility that lets its owner publish music videos he produces
+to his own YouTube channel and manage the metadata of those videos through the official
+YouTube Data API v3: https://developers.google.com/youtube/v3. It is not a public service:
+there is no registration, no accounts, no payment, no subscription, and no hosted component. The only
+authorised user is the operator of the application, acting through his own Google account.
+
+By authorising the application (entering a Google verification code and granting it access), the user
+confirms that he is the owner of the Google account and of the YouTube channel involved, that he is at
+least 13 years old (and at least the age required by his local law), and that he accepts these terms.
+
+## 2. Authorised use
+
+The application may be used only to publish and manage content that the user himself has the rights to
+publish. The user is solely responsible for:
+
+- the content of every video, thumbnail, title, description and tag he publishes;
+
+- holding all necessary rights (including rights in any audio, samples, lyrics, footage and training data
+of any AI tool used to create the work) for everything he uploads;
+
+- complying with the YouTube Terms of Service: https://www.youtube.com/static?template=terms,
+the [YouTube API Services
+Terms of Service], and YouTube's monetisation and spam/deceptive-practices policies;
+
+- disclosing synthetic media where required — the application marks its uploads as containing
+AI-generated media.
+
+## 3. Prohibited use
+
+The application must not be used to:
+
+- upload content that infringes copyright, trademarks, privacy, publicity or other rights of third parties;
+
+- publish spam, mass-produced duplicate content, misleading metadata, misleading tags/titles/thumbnails,
+or content that impersonates other artists, channels or brands;
+
+- create, upload to, download from, delete on, or modify any YouTube channel other than the user's own;
+
+- access, collect, store or redistribute any YouTube viewer data, other users' personal data, or
+non-public YouTube API data; the application requests only the scopes listed in the
+Privacy Policy and only for the user's own videos;
+
+- circumvent YouTube quotas, upload limits, review gates, age-restriction, verification requirements
+or any other platform control;
+
+- resell, sublicense, host for third parties, expose as an API, or embed in any service for others;
+
+- reverse-engineer, probe, overload, disrupt, or use in any way that violates Google's policies,
+including the Google Terms of Service: https://policies.google.com/terms.
+
+Google can revoke the application's OAuth credentials at any time; the operator will stop using the
+application on request from Google or YouTube.
+
+## 4. No warranty; availability
+
+The application is provided "as is", without warranty of any kind, express or implied, including fitness
+for a purpose, uninterrupted operation and fitness for monetisation. It depends on Google's and YouTube's
+public APIs, which may change, rate-limit, suspend or discontinue at any time without notice. Failed,
+delayed, rejected, deleted or demonetised uploads, exhausted quotas, revoked tokens and account
+restrictions are inherent risks of using the YouTube platform and are not the operator's fault.
+
+## 5. Limitation of liability
+
+To the maximum extent permitted by law, the operator is not liable for any direct, indirect, incidental
+or consequential damages arising from use of the application, including loss of revenue, loss of
+monetisation, loss of data, loss of channel standing, and actions taken by Google, YouTube, hosting
+providers, copyright claimants, or collecting societies. The user is solely responsible for his published
+content and for any claims relating to it, and indemnifies the operator against such claims.
+
+## 6. Data, credentials and termination
+
+Use of the application requires the user's own Google OAuth credentials; the user must keep them
+confidential and must not share them with third parties. The user may stop using the application at any
+time and revoke its access at
+Google account permissions: https://myaccount.google.com/permissions; the operator may stop
+offering the application at any time. Personal data handling is described in the
+Privacy Policy, which is part of these terms.
+
+## 7. Changes to these terms
+
+These terms may be updated; the current version is always available at this address and the "Last
+updated" date above shows the version. Continued use of the application after an update means acceptance
+of the updated terms.
+
+## 8. Governing law and contact
+
+These terms are governed by the law of the Republic of Kazakhstan; nothing here limits rights that
+mandatory local law grants to the user. Questions and notices:
+peshkov1.max@gmail.com.
+
+These terms apply only to the YouTube Upload Tool described above and the Google Cloud project
+extreme-lodge-504919-f7. They do not modify YouTube's, Google's, or any AI tool provider's
+own terms, which continue to apply to the user's account and content.

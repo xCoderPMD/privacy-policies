@@ -1,0 +1,87 @@
+Privacy Policy — YouTube Upload Tool
+
+# Privacy Policy
+
+Applies to: YouTube Upload Tool
+Google Cloud project: extreme-lodge-504919-f7
+OAuth client ID: 201426262762-mv5t1d0t2cqjvhpgrmv7egtls6gaciq5.apps.googleusercontent.com
+Contact: peshkov1.max@gmail.com
+Last updated: 24 November 2026
+
+## 1. What this application is
+
+YouTube Upload Tool is a small personal utility written and operated by a single individual developer.
+It automates one task for its owner: uploading music videos that the owner produces to his own YouTube
+channel, and reading back the metadata of those videos (titles, descriptions, tags, privacy status,
+processing status, duration) so that they can be edited.
+
+The application has no users other than its owner. It has no website, no backend, no server, no
+analytics, no advertising and no third-party integrations.
+
+## 2. Google scopes requested and why
+
+- https://www.googleapis.com/auth/youtube.upload — to upload new video files to the owner's
+own channel and set their title, description, tags and privacy status.
+
+- https://www.googleapis.com/auth/youtube — to manage the owner's own uploads: change the
+privacy status, edit metadata, and delete videos the owner asks to be deleted.
+
+- https://www.googleapis.com/auth/youtube.readonly — to list the owner's channel and uploads
+so the tool can verify what was published.
+
+The application requests only these scopes. It does not request, access, store, process or share any
+other Google user data, and it does not use YouTube API data to build a competing service, to resell it,
+or to analyse YouTube users.
+
+## 3. What data is collected
+
+- OAuth access and refresh tokens for the owner's own Google account, used to authorize the uploads.
+
+- YouTube channel identifier, video identifiers, and video metadata (title, description, tags,
+privacy status, duration, processing status) for the owner's own uploaded videos.
+
+- The video files themselves, which exist locally on the owner's computer and are transmitted to
+YouTube over HTTPS.
+
+No data of any YouTube viewer is collected. No personal data of any third party is collected.
+
+## 4. How the data is used and stored
+
+All data is processed locally on the owner's private computer. The tokens and metadata are stored in a
+single directory on that machine, readable only by the owner's user account (file permissions 600),
+and are used only for the upload/management operations described above. Data is transmitted only between
+the owner's computer and Google's official YouTube Data API endpoints over TLS. It is never sent to any
+other party, never sold, never rented, never used for marketing, profiling, tracking or advertising.
+
+## 5. Retention and deletion
+
+Data is retained only while the application is in use by its owner. The owner can revoke the app's access
+at any time at Google account permissions: https://myaccount.google.com/permissions, which
+immediately invalidates the tokens; deleting the local files removes all remaining data. Videos uploaded
+to YouTube can be deleted through YouTube Studio.
+
+## 6. Security
+
+Credentials are stored on a private machine, not published and not shared with anyone. All requests to
+Google use HTTPS. The application does not log request bodies and does not keep copies of user credentials
+(Google passwords are never entered into or handled by the application).
+
+## 7. Children
+
+The application is not directed at children, is not used by children, and collects no data from children.
+
+## 8. Changes to this policy
+
+If the application's data handling changes, this page will be updated and the "Last updated" date above
+will change. Material changes will be announced to the owner by email.
+
+## 9. Contact
+
+Developer: Maxim Peshkov — peshkov1.max@gmail.com.
+Questions about this policy or about data removal can be sent to that address; requests are answered
+within 7 days.
+
+This policy covers only the YouTube Upload Tool described above and the Google Cloud project
+extreme-lodge-504919-f7. It is read together with the
+Terms of Service. It does not apply to Google's own services; see the
+Google Privacy Policy: https://policies.google.com/privacy for those.
